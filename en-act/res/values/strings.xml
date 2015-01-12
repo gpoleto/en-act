@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">En-Act Mobile</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_en_act_start">EnActStart</string>
+    
+    <string name="bench_matrices">Matrix multiplication</string>
+    <string name="bench_image">Image effect</string>
+    
+    <string name="level1">Very Little</string>
+    <string name="level2">Little</string>
+    <string name="level3">Medium</string>
+    <string name="level4">High</string>
+    <string name="level5">Very Hgih</string>
+    
+    <string name="run_benchmark">Run Benchmark</string>
+    <string name="choose_benchmark">Please select the benchmark to be executed:</string>
+    <string name="choose_load">Please select the load you want to give:</string>
+    
+    
+    <!-- ====================================================================== -->
+    <!--  <string name="b1_description">Matrix Multiplication</string>
+    <string name="b2_description">Image Effect</string>
+    <string name="b3_description">Meteor Contest</string>
+    <string name="b4_description">Mandelbrot</string>
+    <string name="b5_description">Spectral Norm</string>
+    <string name="button_b1">Proceed</string>
+    <string name="button_b2">Proceed</string>
+    <string name="button_b3">Proceed</string>
+    <string name="button_b4">Proceed</string>
+    <string name="button_b5">Proceed</string>
+    <string name="title_activity_en_act_options">EnActOptions</string>
+    <string name="title_activity_activity1_options_matrix">Activity1OptionsMatrix</string>
+    <string name="title_activity_activity2_options_image">Activity2OptionsImage</string>
+    <string name="title_activity_activity3_options_meteor">Activity3OptionsMeteor</string>
+    <string name="title_activity_activity4_options_mandelbrot">Activity4OptionsMandelbrot</string>
+    <string name="title_activity_activity5_options_spectral">Activity5OptionsSpectral</string>
+    <string name="quit">Quit</string>
+    <string name="matrices_selection">Please select the matrices you wish to multiply:</string>
+    <string name="matrix_small">[2x3] * [3x4]</string>
+    <string name="matrix_20">[20x30] * [30x40]</string>
+    <string name="matrix_200">[200x300] * [300x400]</string>
+    <string name="matrix_350">[350x700] * [700x400]</string>
+    <string name="matrix_big">[500x1000] * [1000x500]</string>
+    <string name="image_selection">Please select the image you want to elaborate:</string>
+    <string name="image_icon">52x39</string>
+    <string name="image_kolibri">209x241</string>
+    <string name="image_icet">477x356</string>
+    <string name="image_boston">1024x683</string>
+    <string name="image_beach">1920x1200</string>
+    <string name="title_activity_en__act__options">En_Act_Options</string>
+-->
+</resources>

@@ -1,0 +1,20 @@
+CLOUD_SERVER_ADDRESS=http://goedis.dps.uibk.ac.at/getfile.php
+
+# Cable
+#LOCAL_SERVER_ADDRESS=10.10.161.36
+# Wi-Fi
+LOCAL_SERVER_ADDRESS=10.7.168.53
+
+SERVER_PORT=8884
+
+# true/false
+OFFLOADING=false
+
+#true/false
+JNI=false
+
+# LOACAL/CLOUD
+SERVER=LOCAL
+
+#true/false
+DEBUG=true
